@@ -1,8 +1,8 @@
 #+title: Garden Log
 #+author: Roman Joost
 
-* Garden Log
 This is an idea I had a few times of logging certain things about observations in my garden. Not sure if that pans out to be useful.
-** Plants
-** Invertebra
-** Animals
+
+* Plants
+* Invertebra
+* Animals
